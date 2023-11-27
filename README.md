@@ -1,4 +1,4 @@
-# Competitive Programming and Data Structures Repository
+# COL_106 2023-24 Semester 1
 
 ## Table of Contents
 
